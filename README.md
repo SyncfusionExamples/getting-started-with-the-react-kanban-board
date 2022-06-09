@@ -2,6 +2,10 @@
 
 A quick start React project that shows how to add React Kanban component to the React App. This project also includes a code snippet to bind local and remote data sources, add, and customize a tooltip, set a custom height and width, select multiple cards, and change the default layout.
 
+Example: https://ej2.syncfusion.com/react/demos/#/bootstrap5/kanban/overview 
+
+Documentation: https://ej2.syncfusion.com/react/documentation/kanban/getting-started/  
+
 
 ## Project prerequisites
 
